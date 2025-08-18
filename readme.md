@@ -1,5 +1,6 @@
 
 # 🗺️ Django Google Maps Scraper
+![Django Google Maps Scraper](image.png)  
 
 A **Django-based web application** that extracts business details from **Google Maps URLs** using **Selenium Web Scraping**.
 
